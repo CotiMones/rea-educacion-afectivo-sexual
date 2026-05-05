@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505132356T8L2CV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505132356J5WAYR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Legacy Project</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777978842948</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-jmnodzp22</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Educación Afectivo Sexual</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Educación Afectivo Sexual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Educación Afectivo Sexual</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-jmnodzp22</odePageId>
+      <odeBlockId>block-1777979554918-5axan19uu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-jmnodzp22</odePageId>
+          <odeBlockId>block-1777979554918-5axan19uu</odeBlockId>
+          <odeIdeviceId>idevice-1777979554917-s1velj05v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Título:</h3>
+<p>Cuidar mi cuerpo, cuidar mis relaciones: Educación afectivo‑sexual para convivir mejor.</p>
+<h3>Etapa educativa y nivel:</h3>
+<ul>
+<li>Educación Primaria</li>
+<li>5.º–6.º curso</li>
+</ul>
+<h3>Áreas implicadas:</h3>
+<ul>
+<li>Educación en Valores Cívicos y Éticos</li>
+<li>Ciencias de la Naturaleza (pubertad y cambios corporales)</li>
+<li>Lengua Castellana</li>
+<li>Educación Artística</li>
+<li>Educación Digital</li>
+</ul>
+<h3>Agrupamientos y organización espacial:</h3>
+<ul>
+<li>Individual: diario emocional y reflexión personal.</li>
+<li>Parejas: análisis de situaciones y role‑playing comunicativo.</li>
+<li>Grupos cooperativos: creación de productos digitales.</li>
+<li>Gran grupo: asambleas, debates guiados, puestas en común.</li>
+<li>Espacios: aula ordinaria, aula de informática, biblioteca.</li>
+</ul>
+<h3>Temporalización:</h3>
+<p>8 sesiones de 55 minutos</p>
+<h3>Productos del alumnado:</h3>
+<ol>
+<li><strong>Infografía interactiva:</strong> “Mi cuerpo cambia, y está bien”.</li>
+<li><strong>Producto digital a elegir:</strong>
+<ul>
+<li>Infografía interactiva: “Mi cuerpo cambia, y está bien”.</li>
+<li>Producto digital a elegir: podcast, vídeo, videojuego en Scratch o breakout.</li>
+<li>Diario emocional.</li>
+<li>Exposición final.</li>
+</ul>
+</li>
+</ol>
+<h3>Herramientas tecnológicas:</h3>
+<ul>
+<li>Canva, Genially, Scratch, Audacity, Clipchamp, Padlet.</li>
+<li>Recursos complementarios: vídeos educativos de instituciones oficiales, bancos de imágenes libres.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979554917-s1velj05v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Título:</h3>\n<p>Cuidar mi cuerpo, cuidar mis relaciones: Educación afectivo‑sexual para convivir mejor.</p>\n<h3>Etapa educativa y nivel:</h3>\n<ul>\n<li>Educación Primaria</li>\n<li>5.º–6.º curso</li>\n</ul>\n<h3>Áreas implicadas:</h3>\n<ul>\n<li>Educación en Valores Cívicos y Éticos</li>\n<li>Ciencias de la Naturaleza (pubertad y cambios corporales)</li>\n<li>Lengua Castellana</li>\n<li>Educación Artística</li>\n<li>Educación Digital</li>\n</ul>\n<h3>Agrupamientos y organización espacial:</h3>\n<ul>\n<li>Individual: diario emocional y reflexión personal.</li>\n<li>Parejas: análisis de situaciones y role‑playing comunicativo.</li>\n<li>Grupos cooperativos: creación de productos digitales.</li>\n<li>Gran grupo: asambleas, debates guiados, puestas en común.</li>\n<li>Espacios: aula ordinaria, aula de informática, biblioteca.</li>\n</ul>\n<h3>Temporalización:</h3>\n<p>8 sesiones de 55 minutos</p>\n<h3>Productos del alumnado:</h3>\n<ol>\n<li><strong>Infografía interactiva:</strong> “Mi cuerpo cambia, y está bien”.</li>\n<li><strong>Producto digital a elegir:</strong>\n<ul>\n<li>Infografía interactiva: “Mi cuerpo cambia, y está bien”.</li>\n<li>Producto digital a elegir: podcast, vídeo, videojuego en Scratch o breakout.</li>\n<li>Diario emocional.</li>\n<li>Exposición final.</li>\n</ul>\n</li>\n</ol>\n<h3>Herramientas tecnológicas:</h3>\n<ul>\n<li>Canva, Genially, Scratch, Audacity, Clipchamp, Padlet.</li>\n<li>Recursos complementarios: vídeos educativos de instituciones oficiales, bancos de imágenes libres.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-nxlogv2s1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-nxlogv2s1</odePageId>
+      <odeBlockId>block-mosip3h4-tdab96m5r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-nxlogv2s1</odePageId>
+          <odeBlockId>block-mosip3h4-tdab96m5r</odeBlockId>
+          <odeIdeviceId>idevice-mosip3h4-5p5r5hh6q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-nxlogv2s1</odePageId>
+      <odeBlockId>block-1777978937256-x60arxd1n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-nxlogv2s1</odePageId>
+          <odeBlockId>block-1777978937256-x60arxd1n</odeBlockId>
+          <odeIdeviceId>idevice-1777978937255-nxz3ngbxo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Justificación:</h3>
+<p>La educación afectivo‑sexual favorece el bienestar, la autoestima, la comunicación respetuosa y la convivencia. Esta SdA ayuda al alumnado a comprender los cambios de la pubertad, expresar emociones y construir relaciones sanas.</p>
+<h3>Impacto esperado:</h3>
+<ul>
+<li>Mejora del clima de aula.</li>
+<li>Mayor seguridad personal.</li>
+<li>Desarrollo de habilidades sociales.</li>
+<li>Prevención de estereotipos y desigualdades.</li>
+</ul>
+<h3>Relación con ODS y retos del siglo XXI:</h3>
+<ul>
+<li>ODS 3: Salud y bienestar.</li>
+<li>ODS 4: Educación de calidad.</li>
+<li>ODS 5: Igualdad de género.</li>
+<li>ODS 16: Paz y convivencia.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978937255-nxz3ngbxo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Justificación:</h3>\n<p>La educación afectivo‑sexual favorece el bienestar, la autoestima, la comunicación respetuosa y la convivencia. Esta SdA ayuda al alumnado a comprender los cambios de la pubertad, expresar emociones y construir relaciones sanas.</p>\n<h3>Impacto esperado:</h3>\n<ul>\n<li>Mejora del clima de aula.</li>\n<li>Mayor seguridad personal.</li>\n<li>Desarrollo de habilidades sociales.</li>\n<li>Prevención de estereotipos y desigualdades.</li>\n</ul>\n<h3>Relación con ODS y retos del siglo XXI:</h3>\n<ul>\n<li>ODS 3: Salud y bienestar.</li>\n<li>ODS 4: Educación de calidad.</li>\n<li>ODS 5: Igualdad de género.</li>\n<li>ODS 16: Paz y convivencia.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-vr861dhw7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-vr861dhw7</odePageId>
+      <odeBlockId>block-1777979869284-e3769pmay</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-vr861dhw7</odePageId>
+          <odeBlockId>block-1777979869284-e3769pmay</odeBlockId>
+          <odeIdeviceId>idevice-1777979869283-1xds388k5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Competencias clave:</h3>
+<ul>
+<li>CCL</li>
+<li>CD</li>
+<li>CPSAA</li>
+<li>CC</li>
+<li>CE</li>
+<li>CSIEE</li>
+</ul>
+<h3>Competencias específicas:</h3>
+<ul>
+<li>Reconocer cambios físicos y emocionales.</li>
+<li>Expresar emociones de forma respetuosa.</li>
+<li>Identificar relaciones sanas.</li>
+<li>Crear mensajes digitales educativos.</li>
+</ul>
+<h3>Criterios de evaluación:</h3>
+<ul>
+<li>Identifica cambios de la pubertad.</li>
+<li>Expresa emociones adecuadamente.</li>
+<li>Participa en dinámicas cooperativas.</li>
+<li>Crea productos digitales claros y funcionales.</li>
+<li>Reconoce comportamientos respetuosos.</li>
+</ul>
+<h3>Saberes básicos:</h3>
+<ul>
+<li>Cambios corporales.</li>
+<li>Autocuidado.</li>
+<li>Comunicación asertiva.</li>
+<li>Igualdad y respeto.</li>
+<li>Gestión emocional.</li>
+<li>Diseño digital.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979869283-1xds388k5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Competencias clave:</h3>\n<ul>\n<li>CCL</li>\n<li>CD</li>\n<li>CPSAA</li>\n<li>CC</li>\n<li>CE</li>\n<li>CSIEE</li>\n</ul>\n<h3>Competencias específicas:</h3>\n<ul>\n<li>Reconocer cambios físicos y emocionales.</li>\n<li>Expresar emociones de forma respetuosa.</li>\n<li>Identificar relaciones sanas.</li>\n<li>Crear mensajes digitales educativos.</li>\n</ul>\n<h3>Criterios de evaluación:</h3>\n<ul>\n<li>Identifica cambios de la pubertad.</li>\n<li>Expresa emociones adecuadamente.</li>\n<li>Participa en dinámicas cooperativas.</li>\n<li>Crea productos digitales claros y funcionales.</li>\n<li>Reconoce comportamientos respetuosos.</li>\n</ul>\n<h3>Saberes básicos:</h3>\n<ul>\n<li>Cambios corporales.</li>\n<li>Autocuidado.</li>\n<li>Comunicación asertiva.</li>\n<li>Igualdad y respeto.</li>\n<li>Gestión emocional.</li>\n<li>Diseño digital.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-q1sxii1l9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-q1sxii1l9</odePageId>
+      <odeBlockId>block-1777979930223-r3bazsxij</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-q1sxii1l9</odePageId>
+          <odeBlockId>block-1777979930223-r3bazsxij</odeBlockId>
+          <odeIdeviceId>idevice-1777979930222-r4qxveioz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Aprendizaje Basado en Proyectos.</li>
+<li>Aprendizaje cooperativo.</li>
+<li>Asamblea y diálogo reflexivo.</li>
+<li>Gamificación.</li>
+<li>Diseño Universal para el Aprendizaje (DUA).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979930222-r4qxveioz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Aprendizaje Basado en Proyectos.</li>\n<li>Aprendizaje cooperativo.</li>\n<li>Asamblea y diálogo reflexivo.</li>\n<li>Gamificación.</li>\n<li>Diseño Universal para el Aprendizaje (DUA).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-s9ijptfq0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-s9ijptfq0</odePageId>
+      <odeBlockId>block-1777979965365-aic6960vv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-s9ijptfq0</odePageId>
+          <odeBlockId>block-1777979965365-aic6960vv</odeBlockId>
+          <odeIdeviceId>idevice-1777979965364-i7lqyu9b4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Plan de Convivencia.</li>
+<li>Plan de Acción Tutorial.</li>
+<li>Programas de igualdad y coeducación.</li>
+<li>Biblioteca escolar.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979965364-i7lqyu9b4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Plan de Convivencia.</li>\n<li>Plan de Acción Tutorial.</li>\n<li>Programas de igualdad y coeducación.</li>\n<li>Biblioteca escolar.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-3fj6dmlra</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-3fj6dmlra</odePageId>
+      <odeBlockId>block-1777979981524-urvmamsqv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-3fj6dmlra</odePageId>
+          <odeBlockId>block-1777979981524-urvmamsqv</odeBlockId>
+          <odeIdeviceId>idevice-1777979981523-72ee819c1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Taller con profesionales de salud o igualdad.</li>
+<li>Visionado de cortos educativos.</li>
+<li>Actividad de convivencia en el patio o entorno natural.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777979981523-72ee819c1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Taller con profesionales de salud o igualdad.</li>\n<li>Visionado de cortos educativos.</li>\n<li>Actividad de convivencia en el patio o entorno natural.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosip3h3-yp6uwsbfx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-yp6uwsbfx</odePageId>
+      <odeBlockId>block-1777980007208-wq7zs4lb5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-yp6uwsbfx</odePageId>
+          <odeBlockId>block-1777980007208-wq7zs4lb5</odeBlockId>
+          <odeIdeviceId>idevice-1777980007207-265ca5a13</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso se publica bajo licencia Creative Commons BY‑SA 4.0</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980007207-265ca5a13","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso se publica bajo licencia Creative Commons BY‑SA 4.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosip3h3-yp6uwsbfx</odePageId>
+      <odeBlockId>block-1777980013189-5bp8pcvkv</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosip3h3-yp6uwsbfx</odePageId>
+          <odeBlockId>block-1777980013189-5bp8pcvkv</odeBlockId>
+          <odeIdeviceId>idevice-1777980013189-yyvocf2ae</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Legacy Project</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
